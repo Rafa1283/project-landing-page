@@ -78,6 +78,7 @@
     border-radius: 5px;
     background-color: #3882f6;
     color: #e5e7eb;
+    align-self: center;
 }
 
 .main-container {
